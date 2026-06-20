@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hi.gif" width="30px" alt="wave"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deekshitha+Aluka!;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast;Builder+of+Cool+Things+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deekshitha+Aluka!;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast;Builder+of+Cool+Things+%E2%9C%A8)](https://git.io/typin-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Deekshitha0331&label=Profile%20Views&color=f75c7e&style=flat)](https://github.com/Deekshitha0331)
 
@@ -15,11 +15,11 @@
 Hey there! I'm **Deekshitha Aluka** — a passionate developer, creative thinker, and lifelong learner who loves turning ideas into reality through clean code. 🎯
 
 - 🚀 Always exploring new technologies and building cool projects
-- - 🎨 Believe that great design and great code go hand in hand
-  - - ☕ Powered by coffee and curiosity
-    - - 🌍 On a mission to make tech more accessible for everyone
+- 🎨 Believe that great design and great code go hand in hand
+-   Powered by coffee and curiosity
+-     On a mission to make tech more accessible for everyone
      
-      - ---
+      ---
 
       ## 🛠️ Tech Stack
 
